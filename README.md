@@ -4,8 +4,8 @@ A project for the Neuromatch Academy Computational Neuroscience course. We use m
 
 Hi!  
 This repo is our code collection for our Neuromatch project _Mapping Decision-Related Neural Dynamics Across the Mouse Brain Using Machine Learning Approaches_, using IBL data.  
-Most scripts are not perfect, but they reflect our real workflow, explorations, and some trial-and-error.  
-If you find bugs or have ideas, just open an issue or PR (or email me at qingshijiark800@gmail.com).  
+Most scripts are not perfect.  
+You can always email me at qingshijiark800@gmail.com if there's problem!  
 **This whole thing is a work in progress, but I hope it helps someone!**
 
 ---
